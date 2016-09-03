@@ -1,4 +1,4 @@
-layout_spectrum: 0.5191159
+typography_spectrum: 0.2465471
 color:
   saturation: 0.5701519
   lightness: 0.105648
@@ -10,5 +10,6 @@ color:
     - '#EBA277'
     - '#BB6743'
   rhythmicContrast: 0.0319863
-typography_spectrum: 0.2465471
+layout_spectrum: 0.5191159
 name: 'roxanarahnama '
+title: ROXANA RAHNAMA
