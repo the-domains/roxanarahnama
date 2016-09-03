@@ -1,19 +1,31 @@
-typography_spectrum: 0.2465471
+author:
+  name: RoxanaRahnama
+  email: rora.act@gmail.com
+title: ROXANA RAHNAMA
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Actress & Filmmaker
 color:
   saturation: 0.5701519
-  lightness: 0.105648
   brandStrength: 0.559176
+  rhythmicContrast: 0.0319863
   brandColors:
     - '#FDFDFD'
     - '#890000'
     - '#0E0000'
     - '#EBA277'
     - '#BB6743'
-  rhythmicContrast: 0.0319863
-layout_spectrum: 0.5191159
-author:
-  name: RoxanaRahnama
-  email: rora.act@gmail.com
+  lightness: 0.105648
+typography_spectrum: 0.4301075
+layout_spectrum: 0.5179211
 name: 'roxanarahnama '
-title: ROXANA RAHNAMA
-description: Actress & Filmmaker
